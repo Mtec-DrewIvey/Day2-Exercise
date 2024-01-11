@@ -1,6 +1,6 @@
 /* CSS Basic Reset */
 :root {
-    --primary-color: #9D69A3;
+    --primary-text-color: #a60000;
     --secondary-color: #F5FBEF;
     --primary-bg-color: #808080;
     --secondary-bg-color: #d3d3d3;
@@ -24,3 +24,36 @@ header {
     align-items: center;
 }
 
+h1 {
+    font-size: 1.5rem;
+    padding: 1rem;
+    color: var(--primary-color);
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    gap: .725rem;
+    list-style-type: none;
+    padding: .25rem;
+}
+
+nav ul li:last-child {
+    margin-right: 1rem;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+nav ul li a:visited{
+    color: black;
+}
+
+nav ul li a:hover{
+    color: #ff1d1d;
+}
+
+nav ul li a:active{
+    color: var(--secondary-color);
+}
