@@ -1,0 +1,83 @@
+commit 587820d599bc6140b57c821c270a7ee2fa5d7163
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 09:11:42 2024 -0700
+
+    added link to connect to linkedin profile
+
+commit ef6e5d2f9c94f675b91b580b05b6759f3d72a421
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 09:04:27 2024 -0700
+
+    adding content to about page html/css Thu Jan 11 09:04:27 MST 2024
+
+commit 03e70888ceeb764646168a829cd88be28c6f8878
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:52:23 2024 -0700
+
+    added working navigation to header in index.html Thu Jan 11 08:52:23 MST 2024
+
+commit 4c0609d19597039d28c295b3c9b749cd4274e839
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:49:14 2024 -0700
+
+    added feature to spin logos
+
+commit 663a08046726c2917c08d183e8c6a1aeb7b169e6
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:46:18 2024 -0700
+
+    finish base css folder style.css
+
+commit a1230940ffacfca5d30060de3019be2920570da3
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:40:03 2024 -0700
+
+    adding more style to page header
+
+commit 7f9088f73ff20dbfe7335762669e3da703290831
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:31:23 2024 -0700
+
+    developing index.html and basic style sheet page. Work needed
+
+commit e0d79c2e4be6ccc2bbe91b0a7f2485ccefa04257
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:19:02 2024 -0700
+
+    updating .gitignore and readme with instructions for this exercise Thu Jan 11 08:19:02 MST 2024
+
+commit b238378910b2d18d648dd27bb2ec40f3d0782d7c
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:09:35 2024 -0700
+
+    more commits
+
+commit b4796116ea1038979653a6a428b417eb2b146c02
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:09:12 2024 -0700
+
+    moved files around for more organization
+
+commit ab1dd18b04951ad0811264f32c099158dac3b499
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:07:21 2024 -0700
+
+    renaming Projects to SampleProject and moving files
+
+commit 87c9e17384861e5b20c9e1474f160176f0803f9f
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 08:02:59 2024 -0700
+
+    added new directory called Projects and moved all existing files inside
+
+commit b7337d9c516f44ca7aa28942d619952e17560da0
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Tue Jan 9 09:23:21 2024 -0700
+
+    initial commit, Day 2 Exercise Tue Jan  9 09:23:21 MST 2024
+
+commit bd286997a6ee512697f20bd27891e1df9406b8e5
+Author: Drew Ivey <155995115+Mtec-DrewIvey@users.noreply.github.com>
+Date:   Tue Jan 9 09:08:52 2024 -0700
+
+    Initial commit

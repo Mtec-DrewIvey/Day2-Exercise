@@ -1,0 +1,81 @@
+/* CSS Basic Reset */
+:root {
+    --primary-text-color: #a60000;
+    --secondary-color: #F5FBEF;
+    --primary-bg-color: #808080;
+    --secondary-bg-color: #d3d3d3;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: var(--primary-bg-color);
+}
+
+header {
+    background-color: var(--secondary-bg-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 1.5rem;
+    padding: 1rem;
+    color: var(--primary-color);
+}
+
+img{
+    transition: transform 2s ease-in-out;
+}
+
+img:hover {
+    transform: rotate(360deg);
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    gap: .725rem;
+    list-style-type: none;
+    padding: .25rem;
+}
+
+nav ul li:last-child {
+    margin-right: 1rem;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+nav ul li a:visited{
+    color: black;
+}
+
+nav ul li a:hover{
+    color: #ff1d1d;
+}
+
+nav ul li a:active{
+    color: var(--secondary-color);
+}
+
+main {
+    display: grid;
+    grid-template-columns: 500px;
+    /* width: 500px; */
+    justify-content: center;
+    line-height: 22px;
+    margin-top: 5rem;
+}
+
+h2 {
+    margin: .875rem;
+    text-align: center;
+}
