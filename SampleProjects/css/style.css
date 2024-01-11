@@ -1,0 +1,26 @@
+/* CSS Basic Reset */
+:root {
+    --primary-color: #9D69A3;
+    --secondary-color: #F5FBEF;
+    --primary-bg-color: #808080;
+    --secondary-bg-color: #d3d3d3;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: var(--primary-bg-color);
+}
+
+header {
+    background-color: var(--secondary-bg-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
